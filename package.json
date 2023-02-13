@@ -1,0 +1,21 @@
+{
+  "name": "vsblejenk",
+  "version": "1.0.0",
+  "description": "testing cable with jenkins",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d394/vsblejenk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d394/vsblejenk/issues"
+  },
+  "homepage": "https://github.com/d394/vsblejenk#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
